@@ -1,0 +1,5 @@
+WorkOrderID,AssetID,Date,ReportedBy,Priority,Status,Description,Resolution
+WO-855,Valve-204,2025-06-10,Tech-Sarah,Medium,Closed,Valve sticking during open sequence,Lubricated stem and actuated 5 times.
+WO-901,Motor-55,2025-07-02,Tech-John,High,Closed,High vibration alert (VIB-01) triggered,Realigned coupling. Vibration returned to baseline.
+WO-992,Pump-101,2025-08-14,Tech-John,Critical,Open,Visible fluid leak near primary seal housing,Awaiting parts. Monitoring pressure drops.
+WO-995,Sensor-Vib,2025-08-15,Tech-Mike,Low,Closed,Routine calibration check,Calibration verified. Within 1% tolerance.
